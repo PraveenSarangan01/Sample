@@ -10,6 +10,7 @@ public class Alphabets{
 		Arrays.sort(arrayS1);
 		Arrays.sort(arrayS2);
 		System.out.println("String is not a Praveen")
+			System.out.println("String is not a Praveen")
 		if(Arrays.equals(arrayS1, arrayS2)) {
 			System.out.println("Given String is Anagram");
 		}
